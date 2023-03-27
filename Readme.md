@@ -1,1 +1,2 @@
-Olá, primeiro passo na programação. (aprendendo Git)
+Olá, primeiro passo na programação. aprendendo Git
+Alteração
